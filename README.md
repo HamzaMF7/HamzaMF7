@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzamf7" alt="hamzamf7" /></a> </p>
 
-- 🌱 Currently learning and improving in:
-*Cloud & scalable architectures
-*Data Science & AI
-*Modern Full-Stack Development
+🌱 Currently learning and improving in:
+- Cloud & scalable architectures
+- Data Science & AI
+- Modern Full-Stack Development
 
 - 📫 How to reach me **hamzamaerof98@gmail.com**
 
